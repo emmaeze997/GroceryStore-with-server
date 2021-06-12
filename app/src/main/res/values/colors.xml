@@ -5,11 +5,11 @@
    * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
    -->
 <resources>
-    <color name="colorPrimary">#FA5258</color>
-    <color name="colorPrimaryDark">#FAD23C</color>
+    <color name="colorPrimary">#56ab2f</color>
+    <color name="colorPrimaryDark">#56ab2f</color>
     <color name="colorAccent">#ff009688</color>
-    <color name="red_400">#FC5952</color>
-    <color name="yellow_400">#E8CA54</color>
+    <color name="red_400">#56ab2f</color>
+    <color name="yellow_400">#ff009688</color>
     <color name="white">#FFFFFF</color>
     <color name="borderColor">#EAEAEA</color>
     <color name="primary_text">#212121</color>
